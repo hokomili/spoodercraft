@@ -1,0 +1,18 @@
+type: "GenericCrafter"
+description: "make spooder's food"
+size: 2
+category: "production"
+craftEffect: "smeltsmoke"
+itemCapacity: 20
+outputItem: spooder-food/1
+craftTime: 120
+consumes: {
+	itemFlammable:{
+        minFlammability:0.1
+    }
+}
+requirements: [
+	copper/64
+    coal/60
+]
+research: "wheat-farm"

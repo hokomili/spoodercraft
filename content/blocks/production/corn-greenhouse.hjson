@@ -8,7 +8,6 @@ liquidCapacity: 60
 itemCapacity: 20
 outputItem: corn/4
 craftTime: 180
-attribute:water
 consumes: {
 	liquids:[
 		{
@@ -16,6 +15,7 @@ consumes: {
 			amount:0.3
 		}
 	]
+	power:1.2
 }
 requirements: [
 	copper/64

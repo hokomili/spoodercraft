@@ -1,0 +1,20 @@
+type: "AttributeCrafter"
+description: "lure spooder with any food that a spooder would like"
+size: 2
+category: "production"
+craftEffect: "smeltsmoke"
+itemCapacity: 20
+outputItem: spooder/1
+craftTime: 1800
+attribute:spores
+boostScale: -0.3
+consumes: {
+    items:[
+        spooder-food/30
+    ]
+}
+requirements: [
+	copper/64
+    lead/128
+]
+research: "kitchen"

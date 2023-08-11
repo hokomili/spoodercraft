@@ -1,2 +1,6 @@
-description: "Soil"
+description: "is a lie, but yummy"
 color: "6b4121"
+radioactivity: 0
+explosiveness: 0.1
+flammability: 0.2
+charge: 0

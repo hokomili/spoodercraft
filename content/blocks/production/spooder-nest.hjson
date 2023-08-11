@@ -1,0 +1,25 @@
+type: "AttributeCrafter"
+description: "Spooder's home, better not contact with spore"
+size: 2
+category: "production"
+craftEffect: "smeltsmoke"
+itemCapacity: 30
+liquidCapacity: 60
+outputItem: spooder/1
+craftTime: 900
+attribute:spores
+boostScale: -0.6
+consumes: {
+    items:[
+    spooder-food/30
+    ]
+    coolant:{
+        maxTemp:0.5
+        amount:0.2
+    }
+}
+requirements: [
+	copper/64
+    lead/128
+]
+research: "wheat-farm"

@@ -1,2 +1,6 @@
-description: "Soil"
+description: "the legendary cosmic spooder"
 color: "6b4121"
+radioactivity: 0.2
+explosiveness: 0
+flammability: 0.1
+charge: 0.1

@@ -6,7 +6,6 @@ craftEffect: "smeltsmoke"
 itemCapacity: 20
 outputItem: flour/1
 craftTime: 120
-attribute:water
 consumes: {
 	items:[
 		{

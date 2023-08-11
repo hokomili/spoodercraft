@@ -1,2 +1,6 @@
 description: "essential food ingredient, has a potential explosiveness"
 color: "6b4121"
+radioactivity: 0
+explosiveness: 0.7
+flammability: 0.5
+charge: 0

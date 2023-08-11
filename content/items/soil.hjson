@@ -1,3 +1,7 @@
 description: "fertile dirt dug up from the ground"
 color: "000000"
-hardness: 2
+hardness: 6
+radioactivity: 0
+explosiveness: 0
+flammability: 0
+charge: 0

@@ -1,0 +1,7 @@
+itemDrop: soil
+playerUnmineable: true
+attributes: {
+  oil: 0.1
+  water: 0.2
+  //dirty: 1
+}

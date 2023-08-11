@@ -1,0 +1,10 @@
+name: soil
+type: Floor
+itemDrop: soil
+playerUnmineable: true
+attributes: {
+  oil: 0.4
+  sand: 0.2
+  water: 0.2
+  dirty: 0.7
+}

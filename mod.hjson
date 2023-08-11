@@ -1,0 +1,8 @@
+displayName:"Spooder Craft"
+name:"spooder_craft"
+description:"Add Spooder and a bunch of farming stuff to serve their apetite!"
+author:"Hokomili"
+minGameVersion: 145.1
+version: 0.1
+hideBrowser: true
+hidden: false

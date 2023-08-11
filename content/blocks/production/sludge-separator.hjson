@@ -1,0 +1,22 @@
+type: "Separator"
+description: "separate sludge into useful things"
+size: 2
+category: "crafting"
+//craftEffect: "smeltsmoke"
+liquidCapacity: 30
+craftTime: 120
+consumes: {
+	items:[
+	sludge/1
+	]
+}
+results: [
+	sand/1
+	soil/1
+	scrap/1
+]
+requirements: [
+	copper/200
+	lead/100
+]
+research: "settling-basin"

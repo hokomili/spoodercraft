@@ -1,0 +1,23 @@
+type: "AttributeCrafter"
+description: "make sludge."
+size: 2
+category: "production"
+craftEffect: "smeltsmoke"
+liquidCapacity: 60
+outputItem: sludge/1
+craftTime: 600
+attribute:dirty
+consumes: {
+	//itemExplosive:{minExplosiveness:0.4}
+	liquids:[
+		{
+			liquid:water
+			amount:0.2
+		}
+	]
+}
+requirements: [
+	copper/80
+	lead/30
+]
+research: "mechanical-pump"

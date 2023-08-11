@@ -1,0 +1,5 @@
+attributes: {
+  oil: 0.2
+  water: 0.1
+  //dirty: 1
+}

@@ -1,0 +1,26 @@
+type: "GenericCrafter"
+description: "farm in a more reliable way"
+size: 2
+category: "production"
+craftEffect: "smeltsmoke"
+health: 1000
+liquidCapacity: 60
+itemCapacity: 20
+outputItem: corn/4
+craftTime: 180
+attribute:water
+consumes: {
+	liquids:[
+		{
+			liquid:water
+			amount:0.3
+		}
+	]
+}
+requirements: [
+	copper/64
+	titanium/32
+    metaglass/80
+    soil/4
+]
+research: "corn-farm"

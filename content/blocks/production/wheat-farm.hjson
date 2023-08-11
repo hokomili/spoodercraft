@@ -1,0 +1,25 @@
+type: "AttributeCrafter"
+description: "farm wheat."
+size: 2
+category: "production"
+craftEffect: "smeltsmoke"
+liquidCapacity: 30
+outputItem: wheat/4
+craftTime: 240
+attribute:water
+consumes: {
+	liquids:[
+		{
+			liquid:water
+			amount:0.1
+		}
+	]
+}
+requirements: [
+	copper/64
+	lead/16
+    soil/4
+]
+maxBoost:0.8
+boostScale:0.2
+research: "sludge-separator"

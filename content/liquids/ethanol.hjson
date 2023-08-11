@@ -1,0 +1,7 @@
+description: "industrial alcohol, not for drinking"
+temperature: 0.3
+viscosity: 0.4
+color: "#000000"
+heatCapacity: 0.4
+flammability: 1.0
+explosiveness: 0.9

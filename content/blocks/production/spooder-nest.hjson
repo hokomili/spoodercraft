@@ -3,15 +3,16 @@ description: "Spooder's home, better not contact with spore"
 size: 2
 category: "production"
 craftEffect: "smeltsmoke"
-itemCapacity: 30
+itemCapacity: 60
 liquidCapacity: 60
-outputItem: spooder/1
+outputItem: spooder/3
 craftTime: 900
 attribute:spores
 boostScale: -0.6
 consumes: {
     items:[
     spooder-food/30
+    spooder/2
     ]
     coolant:{
         maxTemp:0.5

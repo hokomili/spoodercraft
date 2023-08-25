@@ -3,7 +3,7 @@ description: "lure spooder with any food that a spooder would like"
 size: 2
 category: "production"
 craftEffect: "smeltsmoke"
-itemCapacity: 20
+itemCapacity: 60
 outputItem: spooder/1
 craftTime: 1800
 attribute:spores

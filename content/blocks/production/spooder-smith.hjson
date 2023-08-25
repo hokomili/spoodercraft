@@ -1,0 +1,24 @@
+type: "GenericCrafter"
+description: "Hire spooder to bulk craft tool which greatly reduces junk production. (the spooder retires as a result)"
+size: 2
+category: "crafting"
+craftEffect: "smeltsmoke"
+itemCapacity: 3000
+outputItems: [
+    shovel/24
+    junk/1000
+]
+craftTime: 600
+consumes: {
+	items:[
+        spooder/1
+		copper/1500
+        lead/750
+	]
+}
+requirements: [
+	copper/100
+    lead/400
+    graphite/40
+]
+research: "graphite-press"

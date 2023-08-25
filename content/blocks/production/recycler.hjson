@@ -1,0 +1,22 @@
+type: "GenericCrafter"
+description: "Reduce, Reuse, Recycle."
+size: 1
+category: "crafting"
+craftEffect: "smeltsmoke"
+itemCapacity: 40
+outputItems: [
+    copper/2
+    lead/1
+]
+craftTime: 300
+consumes: {
+	items:[
+		junk/20
+	]
+}
+requirements: [
+	copper/6
+    lead/3
+    graphite/4
+]
+research: "tool-smith"

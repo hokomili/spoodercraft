@@ -1,0 +1,23 @@
+type: "GenericCrafter"
+description: "Craft tool that generate a lot of junk as byproduct"
+size: 2
+category: "crafting"
+craftEffect: "smeltsmoke"
+itemCapacity: 1000
+outputItems: [
+    shovel/1
+    junk/1000
+]
+craftTime: 1
+consumes: {
+	items:[
+		copper/120
+        lead/60
+	]
+}
+requirements: [
+	copper/40
+    lead/40
+    graphite/40
+]
+research: "graphite-press"

@@ -1,0 +1,9 @@
+buildVisibility: shown
+requirements: [
+	sand/128
+	shovel/1
+]
+category: "effect"
+buildCostMultiplier: 3.2
+research: "sludge-separator"
+floating: true

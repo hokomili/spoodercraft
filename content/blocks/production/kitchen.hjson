@@ -1,7 +1,7 @@
 type: "GenericCrafter"
 description: "make spooder's food"
 size: 2
-category: "production"
+category: "crafting"
 craftEffect: "smeltsmoke"
 itemCapacity: 20
 outputItem: spooder-food/1

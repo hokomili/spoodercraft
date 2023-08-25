@@ -1,0 +1,7 @@
+//buildVisibility: shown
+requirements: [
+	sand/128
+]
+category: "effect"
+buildCostMultiplier: 3.2
+research: "sludge-separator"

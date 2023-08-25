@@ -6,7 +6,7 @@ craftEffect: "smeltsmoke"
 liquidCapacity: 30
 outputItem: wheat/4
 craftTime: 240
-attribute:water
+attribute: water
 consumes: {
 	liquids:[
 		{

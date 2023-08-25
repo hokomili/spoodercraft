@@ -1,0 +1,28 @@
+type: "AttributeCrafter"
+description: "We still don't know where does it come from"
+size: 2
+category: "crafting"
+craftEffect: "smeltsmoke"
+liquidCapacity: 60
+outputLiquid: milk/0.1
+craftTime: 90
+attribute: spore
+boostScale: -0.6
+consumes: {
+    items:[
+        wheat/4
+    ]
+	liquids:[
+		{
+			liquid:water
+			amount:0.05
+		}
+	]
+}
+requirements: [
+	copper/160
+	lead/60
+    graphite/80
+    metaglass/100
+]
+research: "wheat-farm"

@@ -12,4 +12,4 @@ requirements: [
 ]
 category: "effect"
 buildCostMultiplier: 3.2f
-research: "sludge-separator"
+research: "tool-smith"

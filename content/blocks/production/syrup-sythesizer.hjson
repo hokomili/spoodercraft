@@ -1,0 +1,20 @@
+type: "GenericCrafter"
+description: "Make syrup from corn"
+size: 2
+category: "crafting"
+craftEffect: "smeltsmoke"
+itemCapacity: 20
+liquidCapacity: 60
+outputLiquid: syrup/0.05
+craftTime: 60
+consumes: {
+	items:[
+        corn/2
+    ]
+}
+requirements: [
+	lead/80
+    graphite/120
+    metaglass/100
+]
+research: "corn-farm"

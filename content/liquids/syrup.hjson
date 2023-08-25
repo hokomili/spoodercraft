@@ -1,0 +1,8 @@
+description: "made from corn(maize)"
+temperature: 0.4
+viscosity: 1.0
+color: "#ffeedd"
+heatCapacity: 0.4
+flammability: 0.5
+explosiveness: 0
+research: corn

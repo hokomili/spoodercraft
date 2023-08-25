@@ -1,0 +1,32 @@
+type: "AttributeCrafter"
+description: "Harvest eggs and meat from the tamed cockatrices."
+size: 2
+category: "crafting"
+craftEffect: "smeltsmoke"
+liquidCapacity: 30
+outputItems:[
+    egg/12
+    meat/1
+]
+craftTime: 900
+attribute: spore
+boostScale: -0.6
+consumes: {
+    items:[
+        corn/6
+        wheat/4
+    ]
+	liquids:[
+		{
+			liquid:water
+			amount:0.1
+		}
+	]
+}
+requirements: [
+	copper/120
+	lead/100
+    graphite/40
+    metaglass/40
+]
+research: "wheat-farm"

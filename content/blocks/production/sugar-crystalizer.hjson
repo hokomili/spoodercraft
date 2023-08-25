@@ -1,0 +1,21 @@
+type: "AttributeCrafter"
+description: "Crystalize syrup to make sugar"
+size: 2
+category: "crafting"
+craftEffect: "smeltsmoke"
+itemCapacity: 20
+outputItem: sugar/1
+craftTime: 360
+consumes: {
+    liquids:[
+        syrup/0.03
+    ]
+}
+requirements: [
+	copper/120
+    graphite/200
+    metaglass/75
+]
+attribute: water
+boostScale:0.4
+research: "syrup-sythesizer"

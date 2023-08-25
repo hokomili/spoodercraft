@@ -1,6 +1,7 @@
 description: "The source remained unknown..."
 temperature: 0.4
 viscosity: 0.6
-color: "#000000"
+color: "#ffffff"
 heatCapacity: 1.1
 explosiveness: 0
+research: wheat

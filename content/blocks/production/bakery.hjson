@@ -1,0 +1,25 @@
+type: "GenericCrafter"
+description: "Make cakes"
+size: 2
+category: "crafting"
+craftEffect: "smeltsmoke"
+itemCapacity: 20
+outputItem: cake/1
+craftTime: 180
+consumes: {
+	items:[
+        egg/1
+        flour/3
+        sugar/2
+    ]
+    liquids:[
+        milk/0.05
+    ]
+}
+requirements: [
+	copper/60
+    graphite/60
+    coal/120
+    metaglass/30
+]
+research: "windmill"

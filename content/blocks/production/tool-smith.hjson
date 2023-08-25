@@ -17,7 +17,7 @@ consumes: {
 }
 requirements: [
 	copper/40
-    lead/40
+    lead/80
     graphite/40
 ]
 research: "graphite-press"
